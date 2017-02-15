@@ -1,0 +1,177 @@
+.background {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+.body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #FFFFFF;
+	background-color: #222222;
+}
+.layouttable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 2px solid #333333;
+	color: #FFFFFF;
+	background-color: #666666;
+	font-size: 9pt;
+
+}
+#bodylink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+#bodylink:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #FFFFFF;
+	background-color: #444444;
+	text-decoration: underline;
+}
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #CCCCCC;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	background-color: #666666;
+	text-decoration: underline;
+}
+.dispmap {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-position: left top;
+	border: 2px solid #333333;
+	vertical-align: top;
+	height: 100px;
+	width: 400px;
+	background-color: #000000;
+}
+.dispkey {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #333333;
+	border: 2px solid #333333;
+	vertical-align: top;
+	font-size: 9pt;
+	color: #CCCCCC;
+}
+.bg {
+	background-image: url(images/planets/starfield.gif);
+	background-repeat: repeat;
+	overflow: hidden;
+	position: absolute;
+	height: 400px;
+	width: 400px;
+	left: 0px;
+	top: 0px;
+}
+.form {
+	font-size: 9pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color: #999999;
+	border: 1px solid #333333;
+}
+.mousepointer {
+	cursor: crosshair;
+}
+.scanresults {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px dashed #222222;
+	background-color: #666666;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #CCCCCC;
+}
+.scanresults2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px dashed #333333;
+	background-color: #444444;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #CCCCCC;
+}
+.scanresultsnb{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #666666;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #CCCCCC;
+}
+.dispkeyscn {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #333333;
+	border: 2px solid #333333;
+	vertical-align: top;
+	font-size: 9pt;
+	color: #CCCCCC;
+}
+.green {
+	color: #00CC00;
+}
+.red {
+	color: #FF0000;
+}
+.redbg {
+	background-color: #FF0000;
+}
+.greenbg {
+	background-color: #00BB00;
+}
+.amberbg {
+	background-color: #FF6600;
+}
+.underline {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.norfont {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #CCCCCC;
+}
+.eventmini {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px solid #666666;
+	font-size: 8pt;
+	color: #FFFFFF;
+	overflow: auto;
+	position: static;
+	height: 110px;
+	width: auto;
+	padding: 2px 2px 2px 2px;
+}
+.uld {
+	text-decoration: underline;
+}
+.dockscan {
+	border: 1px solid #333333;
+	background-color: #555555;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #CCCCCC;
+}
+.dockscan2 {
+	background-color: #555555;
+	font-size: 9pt;
+	vertical-align: top;
+	color: #CCCCCC;
+	border-top: 1px none #333333;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #333333;
+}
+.yellow {
+	color: #FFCC00;
+	background-color: #555555;
+	border: 1px solid #999999;
+	width: 93%;
+}
+td {
+	font-size: 9pt;
+	color: #CCCCCC;
+}
